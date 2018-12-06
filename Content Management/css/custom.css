@@ -1,0 +1,41 @@
+.clock {
+    background-image: url(../assets/clock.png);
+    background-position: right;
+    background-repeat: no-repeat;
+}
+.glass{
+    background-image: url(../assets/magnifying_glass.png);
+    background-position: right;
+    background-repeat: no-repeat;
+}
+.calendar{
+    background-image: url(../assets/calendar.png);
+    background-position: right;
+    background-repeat: no-repeat;
+}
+body{
+    background-color: rgb(238, 247, 255)   ;
+}
+.form-control{
+    border-radius:0px;
+    height: 2em;
+}
+h1{
+    color: rgb(0 , 115, 181);
+    
+    font-size: 1.5em;
+    font-weight: bold;
+}
+h2{
+    color: rgb(0 , 115, 181);
+    border-bottom: 1px solid rgb(0 , 115, 181);
+    font-size: 1em;
+    font-weight: bold;
+    margin-top: 5px;
+}
+.table{
+    height:100%;
+}
+td{
+    
+}
